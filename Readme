@@ -14,4 +14,6 @@ so inorder to print the class we need the first of the of the array [0] and firs
 Now the accuracy part I really am confused with this is part ,I think what we do is add 1 point whenever the class we passed is one among the group which is 2 or 4 and divide this count by the total number of class 
 present giving the percentage of accuracy ,similarly we can find the error .
  I have used Breast cancer data for predicting whether the cells are cancerous or malignant .
- Run the code in python 3 compiler.
+ K-Nearest Math is KNN from scratch 
+ K-Nearest Breast cancer is KNN using scikit.
+ The code is in python 3.
