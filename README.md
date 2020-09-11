@@ -1,6 +1,6 @@
-# How K-Nearest Neighbors work ?
+# Project 1
 	Generally,  we find the K number of nearby points to the data we want to predict and take the majority of the data and consider that our data belongs to the majority of the data.
-# How do we do ?
+
 	Euclidean Distance -  Its the sum of the square root of the difference between the features of data with classes squared and the data which has only the features for which we want to predict the class(2 or 4) squared.
  	Now we list this sum with its class and sort it in ascending order so that we can take the top K 
 	NOw is the crucial part ,WE don't want those feature's euclidean Distance after sorting them and taking the top K values ,Now all we want is the class of 
