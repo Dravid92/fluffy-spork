@@ -1,6 +1,6 @@
 # Project 1 - KNN
 
-	Knn is an Supervised Machine learning that is used for creating classification models.
+Knn is an **Supervised Machine learning Algorithm** that is used for creating **classification models.**
 	
 ## How does it work ?
 
