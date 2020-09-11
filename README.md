@@ -55,3 +55,4 @@ clf.fit(X_train,y_train)
 		           --------------------------------------
 		      Total Number of Observations that needed prediction
 
+- Accuracy was around 97 %
