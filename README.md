@@ -1,8 +1,7 @@
-# Project 1 -Python Script for building KNN from scratch
-
-## KNN - 
+# Project 1 - KNN
 
 	Knn is an Supervised Machine learning that is used for creating classification models.
+	
 ## How does it work ?
 
 	Generally,  we find the distance between K number of nearby points to the data point we want to predict 
