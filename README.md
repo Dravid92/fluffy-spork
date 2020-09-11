@@ -34,7 +34,7 @@ y = np.array(data['Class'])
 ```python
 X_train,X_test,y_train,y_test = cross_validation.train_test_split(X,y,test_size=0.2)
 ```
--- test size parameter is the percentage of the total data to be taken as testing dataset
+- test size parameter is the percentage of the total data to be taken as testing dataset
 ### Model : 
 Creating a model using sklearn is pretty much simple 
 It requries around 2 lines of python code.
@@ -51,5 +51,7 @@ clf.fit(X_train,y_train)
 - test datasets are passed as parameters
 - The model will predict the classes for the X_test and then compare it with the y_test 
 
-$$ Accuracy = \frac{Number of correctly predicted classes}{Total Number of Observations that needed prediction}\ast $$
+		Accuracy =( Number of correctly predicted classes )  * 100
+		           --------------------------------------
+		      Total Number of Observations that needed prediction
 
