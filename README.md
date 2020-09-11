@@ -4,7 +4,7 @@ Knn is an **Supervised Machine learning Algorithm** that is used for creating **
 	
 ## How does it work ?
 
-- Generally,  we find the distance between K number of nearby points to the data point that needs prediction
+- Generally,  we find the distance between K number of nearby points to the data point that needs prediction (x_test)
 - And Classify that the data point belongs to the majority of the K number nearest points 
 	
 ### Example: 
