@@ -25,7 +25,7 @@
 - Now we list this sum with its class and sort it in ascending order 
 - Classify *(p)* to the majority of the closest class among the k nearby points
 
-## Explanation with Data :
+## KNN Using SKlearn :
 
 ### Data : [Wisconsin Breast Cancer Data set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
 
@@ -68,7 +68,7 @@ clf.fit(X_train,y_train)
 
 - Accuracy was around **97 %**
 
-# Math Behind KNN 
+# Math Behind KNN (Python) 
 
 ### Preprocessing :
 
